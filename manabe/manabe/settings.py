@@ -31,12 +31,21 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'rest_framework',
+    'rest_framework.authtoken',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'public.apps.PublicConfig',
+    'appinput.apps.AppinputConfig',
+    'deploy.apps.DeployConfig',
+    'envx.apps.EnvxConfig',
+    'rightadmin.apps.RightadminConfig',
+    'serverinput.apps.ServerinputConfig',
+    'api.apps.ApiConfig',
 ]
 
 MIDDLEWARE = [
@@ -79,11 +88,25 @@ DATABASES = {
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+'''
+DATABASES ={
+    'default':{
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME' : 'manabe',
+        'HOST' : 'localhost',
+        'PORT' : '3306',
+        'USER' : 'root',
+        'PASSWORD' : '123456'
+    }
+}
+'''
+
+
 
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
-
+'''
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -98,14 +121,14 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
+'''
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
