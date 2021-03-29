@@ -72,7 +72,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/management/commands/fake_action.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
+            <state relative-caret-position="94">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
@@ -136,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="y" value="25" />
     <option name="width" value="960" />
@@ -252,7 +252,7 @@
       <updated>1616425013798</updated>
       <workItem from="1616425016413" duration="4190000" />
       <workItem from="1616594728695" duration="3241000" />
-      <workItem from="1617028065496" duration="3110000" />
+      <workItem from="1617028065496" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1616595874861</created>
@@ -265,18 +265,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10541000" />
+    <option name="totallyTimeSpent" value="10802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="25" width="960" height="1055" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3017429" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14749734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.76073617" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.76073617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +284,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50108933" side_tool="true" weight="0.5030675" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49891067" weight="0.70858896" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49891067" visible="true" weight="0.70858896" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -543,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/management/commands/fake_action.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
+        <state relative-caret-position="94">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
