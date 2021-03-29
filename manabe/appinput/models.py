@@ -13,7 +13,7 @@ def create_auth_token(sender, instance=None, created=False, **kwargs):
     if created:
         Token.objects.create(user=instance)
 
-
+# 继承public中的表，可以拥有CommonInfo中的某些属性
 class App(CommonInfo):
     """
     应用：
