@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b0c41d92-3c02-46a2-bdc7-4635bba999c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appinput/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/appinput/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appinput/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/appinput/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envx/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/envx/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/envx/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/envx/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manabe/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/manabe/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightadmin/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rightadmin/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rightadmin/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rightadmin/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverinput/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/serverinput/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serverinput/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/serverinput/models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +240,7 @@
       <updated>1616425013798</updated>
       <workItem from="1616425016413" duration="4190000" />
       <workItem from="1616594728695" duration="3241000" />
-      <workItem from="1617028065496" duration="3371000" />
+      <workItem from="1617028065496" duration="3617000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1616595874861</created>
@@ -265,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10802000" />
+    <option name="totallyTimeSpent" value="11048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
